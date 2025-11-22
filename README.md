@@ -4,13 +4,12 @@
 
 API RESTful desenvolvida com ASP.NET Core Web API para gerenciar cursos, usuários, matrículas, progresso e avaliações no contexto de capacitação profissional contínua.
 
-👨‍💻 Integrantes
+## 👨‍💻 Integrantes
 
-Lucas Speranzini - RM98297
-João Paulo de Souza - RM99805
+### Lucas Speranzini - RM98297
+### João Paulo de Souza - RM99805
 
-
-🔧 Tecnologias utilizadas
+## 🔧 Tecnologias utilizadas
 
 .NET 8
 ASP.NET Core Web API
@@ -20,7 +19,7 @@ Swagger
 Banco de Dados MySQL
 
 
-🧪 Execução
+## 🧪 Execução
 
 Instale as dependências:
 
