@@ -40,6 +40,16 @@ Instale as dependências:
     dotnet ef database update
 
 
+
+## 📗 Documentação Swagger
+
+![DocumentaçãoSwagger](Swagger-img.png)
+
+## ✒️ Fluxo de Arquitetura
+
+![FluxoArquitetura](Fluxograma-Arquitetura.drawio.png)
+
+
 ## 🎥 Vídeo Demonstração
 
 📺 Clique para assistir no YouTube
