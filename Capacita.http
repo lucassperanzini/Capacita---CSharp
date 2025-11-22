@@ -1,0 +1,6 @@
+@Capacita_HostAddress = http://localhost:5134
+
+GET {{Capacita_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

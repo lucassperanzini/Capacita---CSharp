@@ -1,0 +1,7 @@
+﻿namespace Capacita.API.Dtos;
+
+public class EnrollmentDto
+{
+    public int UserId { get; set; }
+    public int CourseId { get; set; }
+}
