@@ -47,7 +47,7 @@ Instale as dependências:
 
 ## ✒️ Fluxo de Arquitetura
 
-![FluxoArquitetura](Fluxograma-Arquitetura.drawio.png)
+![FluxoArquitetura](Fluxograma-Arquitetura.jpg)
 
 
 ## 🎥 Vídeo Demonstração
