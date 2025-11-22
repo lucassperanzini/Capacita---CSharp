@@ -1,4 +1,4 @@
-Deixe em mardown ideal para readme 
+
 
 # 📚 Capacita - Sistema de Capacitação Contínua
 
@@ -44,11 +44,3 @@ Instale as dependências:
 
 📺 Clique para assistir no YouTube
 
-
-
-
-
-
-# 5. Pressione f5 para iniciar o projeto
-
-OBS: Caso seja solicitado a instalação de certificado autoassinado, aceite a instalação.
